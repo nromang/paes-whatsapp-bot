@@ -1,0 +1,2 @@
+id,subject_code,subject_label,group,track,exam_form,source_exam,question_number,context_id,topic,skill_json,stem,option_a,option_b,option_c,option_d,option_e,correct_option,is_scored,is_deleted,delivery_mode,active
+M1-113-002,m1,Competencia Matemática 1 (M1),matematica,,113,PAES Regular Admisión 2026,2,,aritmetica,[],Pregunta ejemplo,A,B,C,D,,D,true,false,text,true
